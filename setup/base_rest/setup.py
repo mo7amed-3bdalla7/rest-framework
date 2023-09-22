@@ -5,8 +5,8 @@ setuptools.setup(
     odoo_addon={
         'external_dependencies_override': {
             'python': {
-                'accept_language': 'parse-accept-language',
-                'apispec': 'apispec==6.0.0'
+                #'accept_language': 'parse-accept-language',
+                #'apispec': 'apispec==6.0.0'
             },
         },
     }
